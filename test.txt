@@ -1,2 +1,2 @@
 this is a test file
-here we add a new line
+git is a free software
